@@ -1,0 +1,14 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\ref\HotReload.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\ref\HotReload.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.genruntimeconfig.cache

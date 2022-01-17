@@ -1,0 +1,15 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\bin\Debug\net6.0\D_LembdaImprovements.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\bin\Debug\net6.0\D_LembdaImprovements.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\bin\Debug\net6.0\D_LembdaImprovements.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\bin\Debug\net6.0\D_LembdaImprovements.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\bin\Debug\net6.0\ref\D_LembdaImprovements.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\bin\Debug\net6.0\D_LembdaImprovements.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\D_LembdaImprovements.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\D_LembdaImprovements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\D_LembdaImprovements.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\D_LembdaImprovements.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\D_LembdaImprovements.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\D_LembdaImprovements.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\ref\D_LembdaImprovements.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\D_LembdaImprovements.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\D_LembdaImprovements\obj\Debug\net6.0\D_LembdaImprovements.genruntimeconfig.cache

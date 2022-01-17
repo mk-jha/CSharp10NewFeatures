@@ -1,0 +1,15 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\ref\F_RecordStruct.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\ref\F_RecordStruct.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.genruntimeconfig.cache

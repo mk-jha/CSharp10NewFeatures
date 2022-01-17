@@ -1,0 +1,15 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\ref\E_ExtendedPropertyPatterns.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\ref\E_ExtendedPropertyPatterns.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.genruntimeconfig.cache

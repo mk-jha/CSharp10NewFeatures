@@ -1,0 +1,15 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\bin\Debug\net6.0\C_ConstInterpolationString.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\bin\Debug\net6.0\C_ConstInterpolationString.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\bin\Debug\net6.0\C_ConstInterpolationString.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\bin\Debug\net6.0\C_ConstInterpolationString.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\bin\Debug\net6.0\ref\C_ConstInterpolationString.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\bin\Debug\net6.0\C_ConstInterpolationString.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\C_ConstInterpolationString.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\C_ConstInterpolationString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\C_ConstInterpolationString.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\C_ConstInterpolationString.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\C_ConstInterpolationString.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\C_ConstInterpolationString.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\ref\C_ConstInterpolationString.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\C_ConstInterpolationString.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\C_ConstInterpolationString\obj\Debug\net6.0\C_ConstInterpolationString.genruntimeconfig.cache
